@@ -1,0 +1,1 @@
+{"version":3,"file":"Component.js","sourceRoot":"","sources":["Component.ts"],"names":[],"mappings":";AAAA;IAEI,mBAAY,IAAW;QACnB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACrB,CAAC;IACL,gBAAC;AAAD,CAAC,AALD,IAKC;AAED,iBAAS,SAAS,CAAC","sourcesContent":["class Component{\n    name:string;\n    constructor(name:string){\n        this.name = name;\n    }\n}\n\nexport = Component;"]}

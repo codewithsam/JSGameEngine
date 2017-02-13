@@ -1,0 +1,1 @@
+{"version":3,"file":"IState.js","sourceRoot":"","sources":["IState.ts"],"names":[],"mappings":"","sourcesContent":["interface IState{\n    tick(_td:any): void;\n    render(g:any): void;\n}\nexport = IState;"]}

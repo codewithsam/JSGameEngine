@@ -1,0 +1,1 @@
+{"version":3,"file":"EntityManager.js","sourceRoot":"","sources":["EntityManager.ts"],"names":[],"mappings":";AACA;IAAA;IAEA,CAAC;IADU,sBAAQ,GAAY,EAAE,CAAC;IAClC,oBAAC;AAAD,CAAC,AAFD,IAEC;AAED,iBAAS,aAAa,CAAC","sourcesContent":["import Entity = require(\"./Entity\");\nclass EntityManager{\n    static entities:Entity[] = [];\n}\n\nexport = EntityManager;"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Renderer.js","sourceRoot":"","sources":["Renderer.ts"],"names":[],"mappings":";AAAA;IACI;IAEA,CAAC;IACD,qBAAI,GAAJ,UAAK,GAAG;IAER,CAAC;IACD,uBAAM,GAAN;IAEA,CAAC;IAEL,aAAC;AAAD,CAAC,AAXD,IAWC","sourcesContent":["class System{\n    constructor(){\n\n    }\n    tick(_dt){\n\n    }\n    update(){\n\n    }\n\n}\n\nexport = Renderer;"]}

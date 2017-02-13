@@ -1,0 +1,1 @@
+{"version":3,"file":"System.js","sourceRoot":"","sources":["System.ts"],"names":[],"mappings":";AAAA;IAAA;IAMA,CAAC;IAJU,gBAAS,GAAhB;IAEA,CAAC;IAEL,aAAC;AAAD,CAAC,AAND,IAMC;AAED,iBAAS,MAAM,CAAC","sourcesContent":["class System{\n\n    static collision(){\n\n    }\n\n}\n\nexport = System;"]}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+    <script>var $ = jQuery = require('jquery')</script>
+    <style>
+        * { margin:0; padding:0; }
+        canvas { display:block;
+            image-rendering: optimizeSpeed;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: -webkit-optimize-contrast;
+            image-rendering: -o-crisp-edges;
+            image-rendering: pixelated;
+            -ms-interpolation-mode: nearest-neighbor;}
+        .wrapper{
+            position: relative;
+        }
+        .wrapper canvas{
+            position: absolute;
+            left:0px;
+            top:0px;
+            background: transparent;
+        }
+    </style>
+</head>
+<body>
+<div class="wrapper"></div>
+<script>require('./js/Launcher')</script>
+</body>
+</html>

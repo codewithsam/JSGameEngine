@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/views/js/Launcher.js" />
+        <item url="file://$PROJECT_DIR$/src/views/js/Display.js" />
+        <item url="file://$PROJECT_DIR$/src/views/js/Assets.js" />
+        <item url="file://$PROJECT_DIR$/src/views/js/SpriteSheet.js" />
+        <item url="file://$PROJECT_DIR$/src/views/js/Game.js" />
+        <item url="file://$PROJECT_DIR$/src/views/js/ImageLoader.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/views/js/Launcher.js" />
+      <root url="file://$PROJECT_DIR$/src/views/js/Display.js" />
+      <root url="file://$PROJECT_DIR$/src/views/js/Assets.js" />
+      <root url="file://$PROJECT_DIR$/src/views/js/SpriteSheet.js" />
+      <root url="file://$PROJECT_DIR$/src/views/js/Game.js" />
+      <root url="file://$PROJECT_DIR$/src/views/js/ImageLoader.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
